@@ -23,5 +23,5 @@ customers are ordering, and anything else you can think of.
 * Combining & Exporting Data
 * Deriving New Variables
 * Grouping & Aggregating Data
-* Intro to Data Visualization with Python
+* Data Visualization 
 
