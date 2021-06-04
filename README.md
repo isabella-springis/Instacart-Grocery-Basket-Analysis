@@ -13,7 +13,6 @@ Instacart Stakeholders are interested in the variety of their customers, as well
 2.	They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
 3.	Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts.
 4.	Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders. The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. 
-
 *For example:*
 * What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 * Are there differences in ordering habits based on a customer’s loyalty status?
